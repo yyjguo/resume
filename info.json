@@ -1,0 +1,140 @@
+{
+  "Author": "zhengjingfa",
+  "Guide": [
+  ],
+  "title": "郑敬发-Web前端开发-简历",
+  "aside": [{
+    "href": "https://github.com/zhengjingfa/zhengjingfaResume",
+    "content": "源代码"
+  }, {
+    "href": "./pdf/zhengjingfaResume.pdf",
+    "content": "PDF下载"
+  } ],
+  "header": {
+    "title": {
+      "name": "郑敬发",
+      "job": "Web前端开发工程师"
+    },
+    "contacts": {
+      "phone": "15626495472",
+      "mail": "zhengjingfa123@gmail.com",
+      "address": "广东广州",
+      "github": {
+        "href": "https://github.com/zhengjingfa",
+        "name": "zhengjingfa"
+      },
+      "blog": {
+        "href": "http://www.1oveit.club",
+        "name": "Afanail的前端乐园"
+      }
+    }
+  },
+  "education": {
+    "time": "2012-2016",
+    "name": "河南科技大学",
+    "major": "学历／本科"
+  },
+  "experience": [{
+    "title": {
+      "place": "深圳蓝叶软件",
+      "time": "2016.12-至今"
+    },
+    "content": {
+      "position": "巨商汇（移动端）",
+      "tasks": [
+        "该项目是一个进行产品交易的电子商务平台。",
+        "采用`AngularJs`结合`Ionic`完成基本的布局",
+        "使用AngularJs的`双向数据绑定`功能将后台数据渲染到页面",
+        "使用Ionic框架里的一些基本配置实现所需求的功能",
+        "采用`MVC模式`编写代码，便于维护和`二次开发`"
+      ]
+    }
+  },  {
+    "title": {
+      "place": "深圳蓝叶软件",
+      "time": "2016.02-2016.06"
+    },
+    "content": {
+      "position": " 顺逛微店APP（移动端）",
+      "tasks": [
+        "顺逛微店APP是海尔旗下的官方社交平台，用户通过此平台实现线上交易等，项目地址：http://sg.ehaier.com/",
+        "采用`Flexbox布局`，完成基本页面布局",
+        "采用`CSS3`进行页面炫酷效果设置用完成页面的一些动态效果",
+        "使用`Swiper`完成页面触摸滑动的动态效果",
+        "使用`原生JavaScript`和`Zepto`实现页面的其他动态交互效果"
+      ]
+    }
+  }, {
+    "title": {
+      "place": "郑州数立方科技",
+      "time": "2015.06-2016.01"
+    },
+    "content": {
+      "position": "太能电气官网（PC端）",
+      "tasks": [
+        "该网站是太能电气的官方网站，用于宣传公司产品及公司文化，在线地址：http://www.tainengdianqi.com/",
+        "负责`Ajax`、`JSONP跨域`请求JSON数据、处理数据，渲染页面",
+        "负责`laytpl`前端`模板引擎`的开发",
+        "参与系统需求分析设计，前端使用文档编写",
+        "负责手机端及PC后台Web端静态页面开发",
+        "开发`JavaScript`控件以及`jQuery`插件实现交互操作效果",
+        "对产品页面性能进行优化维护，提升用户体验"
+      ]
+    }
+  }],
+  "skills": {
+    "flags": {
+      "name": "Web前端",
+      "skill": [
+        {
+        "name": "`HTML/CSS`",
+        "description": [
+          "能够编写语义化的 `HTML` ，熟悉 `CSS` 的使用，实现常用的布局与动画",
+          "掌握`HTML5/CSS3` ，并能熟练使用部分新特性",
+          "不借助框架，能编写`响应式/移动端网页`"
+        ]
+      },
+        {
+        "name": "`ECMAScript（JavaScript）`",
+        "description": [
+          "熟悉 JavaScript ，`代码编写遵守规范`",
+          "熟悉 JavaScript `面向对象`知识，掌握 `MV*` 模式",
+          "学习 `ES6/7 规范`，不断实践并在新项目中应用"
+        ]
+      }, {
+        "name": "`前端工程化实践`",
+        "description": [
+          "掌握 `AngularJS`,配合ngRoute、uiRoute开发基本的SPA应用",
+          "熟悉 `jQuery/Bootstrap`,了解 `Vue/Zepto/Swiper/WOW` 等常见框架类库的使用",
+          "熟练使用 `Gulp , Webpack` 等代码构建工具"
+        ]
+      },{
+          "name": "必备相关",
+          "description": [
+            "熟练使用常用的 `bash` 命令， 近2年使用 `Mac OS X` 进行日常开发工作",
+            "熟悉 `HTTP` 常见知识,对 `HTTP2/WebSocket` 等新知识有所了解",
+            "熟练使用 `Git/Bower` 等版本控制工具",
+            "拥有较强的学习能力和团队合作能力",
+            "热爱前端开发，关注前端热门技术，专注于前端"
+          ]
+        }]
+    },
+    "cloud": {
+      "name": "Web后端",
+      "skill": [{
+        "name": "`Node.js`",
+        "description": [
+          "使用 `Express` 等框架搭建后端服务",
+          "`使用 Node.js 开发命令行/爬虫程序`，并发布至 NPM ",
+          "能配合 `MongoDB`、`Mongoose` 开发简单的` CRUD `应用"
+        ]
+      }, {
+        "name": "`PHP、Python`",
+        "description": [
+          "了解PHP，掌握PHP基础部分,能进行基本的开发",
+          "了解Python,能利用Python处理图片、数据"
+        ]
+      }]
+    }
+  }
+}
